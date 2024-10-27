@@ -70,7 +70,7 @@ nav {
   background: linear-gradient(49deg, #ffffff, #0644ff);
   position: relative;
   cursor: pointer;
-  transition: background 0.3s ease-in-out;
+  transition:0.3s ease-in-out;
   vertical-align: middle;
 }
 
